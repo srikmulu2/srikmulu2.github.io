@@ -98,7 +98,7 @@ function MM_swapImage() { //v3.0
                           <tr> 
                             <td height="34" align="center" valign="middle" class="menu" style="color: #fff">
                          
-<!-- Includes the Menu page
+<!-- Includes the Header page
 <!--?php include("menu.html"); ? -->
 
 				<table width="585px" border="0" cellspacing="0" cellpadding="0">
@@ -138,6 +138,39 @@ function MM_swapImage() { //v3.0
 							
 <!-- Includes the Upcomming Events Scroll -->
 <!--?php include("ucomming_events.html"); ?-->
+
+		<table width="192" border="0" cellspacing="0" cellpadding="0">  <tr> 
+                      <td height="540" align="left" valign="top" >                    
+                      <marquee height="535" behavior="scroll" class="marqueestyle" align="middle" direction="up" scrollamount="3" onMouseOver="this.stop()" onMouseOut="this.start()">
+					 <center>		 
+					 <b> July & August 2017 </b>
+ 					 <br><br>
+					 <b>Sravana Maasa <br> Sahasralingeswara Swami <br> Nitya Mahanyasapurvaka Rudrabhishekam </b> <br>
+					 </center>
+
+					<center><img src="images/lingam.png" width="150" height="200"> </center>  <br>
+					<!--hr>
+					<br>
+					 <!--center>		 
+					  <b>Kaveri Pushkaralu </b><br></center>
+					 <center><img src="images/events/Saibaba-New.JPG" width="150" height="140"> </center>  <br><br><hr><br>
+					 
+					 
+					  <b>Maha Kumbhabhishekam</b> <br>
+					 </center>
+
+					<center><img src="images/events/kumbhabhishekam3.JPG" width="150" height="200"> </center>  <br><hr><br>
+
+					 <center><img src="images/events/kumbhabhishekam1.JPG" width="150" height="200"> </center>  <br><br-->
+
+					  </marquee>
+                      </td>
+					</tr>
+                    <tr>
+                      <td align="center"><img src="images/menu_bottom.png" width="192" height="17"></td>
+                    </tr>
+                </table>
+<!-- END -->	
 		<table width="192" border="0" cellspacing="0" cellpadding="0">  <tr> 
                       <td height="540" align="left" valign="top" >                    
                       <marquee height="535" behavior="scroll" class="marqueestyle" align="middle" direction="up" scrollamount="3" onMouseOver="this.stop()" onMouseOut="this.start()">

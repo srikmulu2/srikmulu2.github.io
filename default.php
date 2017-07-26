@@ -61,7 +61,33 @@ function MM_swapImage() { //v3.0
           <td valign="top">
 
 <!-- Includes the Header page -->
-<?php include("header.html"); ?>
+<!--?php include("header.html"); ?> -->
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+			   <td align="left" valign="top" >
+				<IMG SRC="images/maa.png" WIDTH="180" HEIGHT="180" BORDER="0" ALT="Durga">
+				</td>
+                <td width="50%" align="left" valign="bottom">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td align="middle" valign="middle"><img src="images/logo.PNG" ></td>
+                    </tr>
+                    <tr> 
+                    <td>&nbsp; </td>
+                    </tr>
+                    <tr> 
+                    <td>&nbsp; </td>
+                    </tr>
+                      <td align="right"></td>
+                    </tr>
+                  </table></td>
+                <td align="right" valign="top" >
+				<IMG SRC="images/maa-2.png" WIDTH="220" HEIGHT="180" BORDER="0" ALT="Durga">
+				</td>
+              </tr>
+            </table>
+<!-- END -->		
 
 
 			</td>
@@ -75,7 +101,34 @@ function MM_swapImage() { //v3.0
                             <td height="34" align="center" valign="middle" class="menu" style="color: #fff">
                          
 <!-- Includes the Header page -->
-<?php include("menu.html"); ?>
+<!--?php include("menu.html"); ? -->
+
+				<table width="585px" border="0" cellspacing="0" cellpadding="0">
+					      <tr> 
+                            <td height="34" align="center" valign="middle" class="menu" style="color: #fff">
+                            <table width="98%" align="center">
+                            <tr>
+                            <td align="center"><a href="index.html" target="_parent" class="wlink">Home</a></td>
+                            <td align="center" class="wlink">|</td>
+                            <td align="center"><a href="Deities.html" class="wlink">Deities</a></td>
+                            <td align="center" class="wlink">|</td>
+							<td align="center"><a href="Sevas.html" class="wlink">Sevas</a></td>
+                            <td align="center" class="wlink">|</td>
+							<td align="center"><a href="gallery.html" class="wlink">Photo Gallery</a></td>
+                            <td align="center" class="wlink">|</td>
+							
+							<td align="center"><a href="event.html" class="wlink">Events</a></td>
+                            <td align="center" class="wlink">|</td>
+						
+							<td align="center"><a href="Donations.html" class="wlink">Donations</a></td>
+                            <td align="center" class="wlink">|</td>
+							<td align="center"><a href="Trustees.html" class="wlink">Trustees</a></td>
+                            <td align="center" class="wlink">|</td>
+							<td align="center"><a href="Contact.html" class="wlink">Contact</a></td>
+                            </tr>
+                           </table>  </tr>
+                </table>
+<!-- END -->	
 							
 						   </td>
 						   </tr>
@@ -87,7 +140,40 @@ function MM_swapImage() { //v3.0
 				
 							
 <!-- Includes the Upcomming Events Scroll -->
-<?php include("ucomming_events.html"); ?>
+<!--?php include("ucomming_events.html"); ?-->
+
+		<table width="192" border="0" cellspacing="0" cellpadding="0">  <tr> 
+                      <td height="540" align="left" valign="top" >                    
+                      <marquee height="535" behavior="scroll" class="marqueestyle" align="middle" direction="up" scrollamount="3" onMouseOver="this.stop()" onMouseOut="this.start()">
+					 <center>		 
+					 <b> July & August 2017 </b>
+ 					 <br><br>
+					 <b>Sravana Maasa <br> Sahasralingeswara Swami <br> Nitya Mahanyasapurvaka Rudrabhishekam </b> <br>
+					 </center>
+
+					<center><img src="images/lingam.png" width="150" height="200"> </center>  <br>
+					<!--hr>
+					<br>
+					 <!--center>		 
+					  <b>Kaveri Pushkaralu </b><br></center>
+					 <center><img src="images/events/Saibaba-New.JPG" width="150" height="140"> </center>  <br><br><hr><br>
+					 
+					 
+					  <b>Maha Kumbhabhishekam</b> <br>
+					 </center>
+
+					<center><img src="images/events/kumbhabhishekam3.JPG" width="150" height="200"> </center>  <br><hr><br>
+
+					 <center><img src="images/events/kumbhabhishekam1.JPG" width="150" height="200"> </center>  <br><br-->
+
+					  </marquee>
+                      </td>
+					</tr>
+                    <tr>
+                      <td align="center"><img src="images/menu_bottom.png" width="192" height="17"></td>
+                    </tr>
+                </table>
+<!-- END -->	
 
 
 				</td>
@@ -177,7 +263,114 @@ function MM_swapImage() { //v3.0
                 <td align="center" valign="top">
 				
 <!-- Includes the side gallery -->
-<?php include("side_gallery.html"); ?>
+<!--?php include("side_gallery.html"); ?-->
+			 <table width="192" border="0" cellspacing="0" cellpadding="0">    
+                   <tr>       <td height="340" align="center" valign="top" style="background-color: #F8881A"><img src="images/hanuman.gif">
+                      <br/>ABHAYA ANJANEYA SWAMI
+                      </td>
+                    </tr>
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					<tr>
+					<td align=center>
+					<b> References </b>
+					</td>
+					</tr>
+				
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					<a href="http://www.srichaganti.net/" target="_blank">Shri Chaganti's Pravachanams</a>
+					</td>
+					</tr>
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					<a href="http://www.telugubhakti.com/" target="_blank">Religious Literature in Telugu</a>
+					</td>
+					</tr>
+	
+					
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+										
+					<tr>
+					<td>
+					<a href="http://ragsgopalan.blogspot.in/2012/01/time-space-series-part-1-introduction.html" target="_blank">Time = Space</a>
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+					<td align=center>
+					<b>Live Darshan</b>
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					<a href="http://www.shrikashivishwanath.org/en/online/live.aspx" target="_blank">Shri Kashi Vishwanath</a>
+					</td>
+					</tr>
+					
+					
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+										<td>
+					<a href="http://mahakaleshwar.nic.in/livedarshanflv.htm" target="_blank">Shri Mahakaleshwar</a>
+					</td>
+					</tr>
+					
+
+					<tr>
+					<td>
+					&nbsp;
+					</td>
+					</tr>
+					
+					<tr>
+					<td>
+					<a href="http://www.somnath.org/live-darshan.aspx" target="_blank">Shri Somnath</a>					
+					</td>
+					</tr>
+										
+					<tr> 
+                      <td><img src="images/menu_bottom.png" width="192" height="17"></td>
+                    </tr>
+                  </table>
+<!-- END -->					  
 				  
 				  </td>
               </tr>
@@ -191,7 +384,18 @@ function MM_swapImage() { //v3.0
 	
 		  
 <!-- Includes the side gallery -->
-<?php include("footer.html"); ?>
+<!--?php include("footer.html"); ?-->
+  <table width="960" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td align="right" style="color: #fff"><div align="center"><a href="Terms.html" class="wlink">Terms</a>&nbsp;&nbsp; 
+                    | &nbsp;&nbsp;<a href="Sitemap.html" class="wlink">Sitemap</a>&nbsp;&nbsp; 
+                    | &nbsp;&nbsp;<a href="Contact.html" class="wlink">Contact</a><br>
+                    <font color="#CBCBCB">Shri Hemadurga Temple Welfare Association (Reg: 670/2009)</font> <br>
+                    <font color="#CBCBCB">Copyright © 2014, All rights reserved.</font><br> 
+                  </div></td>
+              </tr>
+     </table>
+<!-- END -->					  	
 
 			
 			</td>
